@@ -1,0 +1,26 @@
+Now that I've finished it, everything works and fits, here's how it all comes together.
+
+You'll need a few parts:
+	- Printed Support frame, I used PLA printed vertially with no supports 40% infill and a 20 mm brim for more grip on the printbed.
+	- Printed (65) Cherry MX adapters, I printed in PLA with 0.12 layer heigh with 100% infill on a raft, no supports.
+	- Printed (1) ShiftLock adapter,I printed in PLA with 0.12 layer heigh with 100% infill on a raft, no supports.
+	- Printed (1) SpaceBar adapter, I printed in PLA with 0.12 layer heigh with 100% infill on a raft, with supports.
+	- PCB
+	- 40-pin IDE header (same as used for RaspberryPi GPIO header
+	- Shift lock switch (Digikey # 401-1136-ND)
+	- (67) CherryMX, Gateron or compatible keyboard switches.  I ordered 70 to have a couple spares
+	- 40-pin IDE cable to connect to your C64.  I made my own with a rainbow colored ribbon.
+	- small machine screws to attache PCB to support.
+	- donor keycaps from somewhere. Or new ones from Jim Drew when the are finally done.
+	
+The Gateron switches I used press nicely into the PCB and hold themselves in place for soldering. 
+I then installed the shift lock swith and the 40-pin header.
+
+I held the PCB in place on the support and used my drill press to pre-drill holes in the support using the PCB as a guide. 
+
+I fitted the adapters to the keycaps and then to the switches. The PLA printed on the rafts isn't very flat and sanding them will help the keys sit better on the switches.
+
+The shift lock switch will need to be trimmed to the correct height.  The adaper fit tightly on mine so no glue was needed to hold it in place.
+
+Fit the entire asembly into the Case and shift it around to get the key spaceings mostly even around the outside and tighten all your screws.
+
